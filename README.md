@@ -70,4 +70,5 @@ How do discounts relate to profitability?
 
 Power BI dashboard: .pbix file in this repository
 
-Dashboard screenshots: Supermart_Grocery_Sales_PowerBI_Portfolio.pdf
+Dashboard screenshots: PowerBI_Dashboard_Screenshots.pdf
+
